@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.28)
 
 add_subdirectory(bankpack)
-# add_subdirectory(gbcompress)
+add_subdirectory(gbcompress)
 # add_subdirectory(ihxcheck)
 # add_subdirectory(lcc)
 # add_subdirectory(makebin)
