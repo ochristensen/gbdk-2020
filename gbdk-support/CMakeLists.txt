@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.28)
+
+add_subdirectory(bankpack)
+# add_subdirectory(gbcompress)
+# add_subdirectory(ihxcheck)
+# add_subdirectory(lcc)
+# add_subdirectory(makebin)
+# add_subdirectory(makecom)
+# add_subdirectory(nespal)
+# add_subdirectory(png2asset)
+# add_subdirectory(png2hicolorgb)
